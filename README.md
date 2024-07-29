@@ -1,4 +1,4 @@
-# Zomato-Data-Analysis-Project
+# Zomato-Analysis-Project
 Overview
 This project analyzes Zomato's restaurant data to uncover insights about restaurant distribution, trends, and customer preferences using Excel, Power BI, Tableau, and SQL.
 
@@ -18,7 +18,6 @@ Tableau
 SQL
 Repository Structure
 data/: Dataset used for analysis.
-notebooks/: Jupyter notebooks with analysis.
 reports/: Generated reports and presentations.
 scripts/: SQL scripts for preprocessing and analysis.
 visualizations/: Power BI and Tableau dashboards.
